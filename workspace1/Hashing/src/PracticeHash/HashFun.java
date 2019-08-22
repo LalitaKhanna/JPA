@@ -1,4 +1,4 @@
-package PracticeHash;
+package practiceHash;
 
 import java.util.HashMap;
 import java.util.*;

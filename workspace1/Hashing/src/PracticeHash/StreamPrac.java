@@ -1,4 +1,4 @@
-package PracticeHash;
+package practiceHash;
 
 import java.util.Arrays;
 import java.util.Collection;
